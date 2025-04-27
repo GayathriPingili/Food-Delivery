@@ -31,7 +31,7 @@ This project is divided into three main parts:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/food-ordering-app.git
+git clone https://github.com/yourusername/Food-Delivery.git
 cd food-ordering-app
 ```
 
